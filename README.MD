@@ -1,5 +1,4 @@
-
-<p>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo)](https://git.io/typing-svg)<\p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo)](https://git.io/typing-svg)
  
 <nav>
  <a><h3> LINKS PARA CONTATO </h3> </a>
