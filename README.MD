@@ -1,4 +1,4 @@
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedr0tavi0" alt="pedr0tavi0" /></a> </p><h3 align="left">Connect with me:</h3>
+<h3 align="center"></h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedr0tavi0" alt="pedr0tavi0" /></a> </p><h3 align="left">Connect with me:</h3>
 
 
 
