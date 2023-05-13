@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4EB361&center=true&vCenter=true&width=435&lines=pedr0tavi0" alt="Typing SVG" /></a>
+<p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EB361&center=true&vCenter=true&width=500&lines=Bem+vindo" alt="Typing SVG" /></a>
- 
+</p> 
 <nav>
  <a><h3> LINKS PARA CONTATO </h3> </a>
 <a href="https://www.linkedin.com/in/pedro-otavio-5232a020a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro otavio" height="30" width="40" /></a></p><h3 align="left">Idiomas e Ferramentas:</h3><p align="left">
