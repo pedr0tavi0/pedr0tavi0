@@ -8,7 +8,7 @@
  </nav>
 <aside> 
 <p><img heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedr0tavi0&show_icons=true&locale=en&layout=compact" alt="pedr0tavi0" /></p><p>&nbsp;
- <p><img heigth="180em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedr0tavi0&" alt="pedr0tavi0" /></p>
+ <p><img heigth="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pedr0tavi0&" alt="pedr0tavi0" /></p>
  <p><img heigth="180em"  src="https://github-readme-stats.vercel.app/api?username=pedr0tavi0&show_icons=true&locale=en" alt="pedr0tavi0" /></p>
 
  
