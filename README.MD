@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
+  <h3 align="center">pedr0tavi0</h3>
 </p>
 
 <p align="center">
