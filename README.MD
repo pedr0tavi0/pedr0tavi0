@@ -3,10 +3,8 @@
 </p>
 
 <p align="center">
-<a  href="https://git.io/typing-svg">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=167208&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Bem+vindo" alt="Typing SVG" />
-</a>
-</p>  
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
  
 <nav>
  <a font="Fira Code"><h3> LINKS PARA CONTATO </h3> </a>
