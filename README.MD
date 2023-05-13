@@ -9,7 +9,7 @@
  </nav>
  
 
- <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=pedr0tavi0-Hacker&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="pedr0tavi0" />
+ <img   ![LxaNce's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedr0tavi0-Hacker&theme=dark&show_icons=true)/>
  <img   src="https://github-readme-stats.vercel.app/api?username=pedr0tavi0&show_icons=true&locale=en" alt="pedr0tavi0" />
 
  
