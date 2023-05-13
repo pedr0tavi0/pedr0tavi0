@@ -28,7 +28,7 @@
 
  
 
- <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=pedr0tavi0&show_icons=true&locale=en&layout=compact" alt="pedr0tavi0" />
+ <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=pedr0tavi0&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true"" alt="pedr0tavi0" />
  
 
  
