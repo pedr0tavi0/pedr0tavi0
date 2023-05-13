@@ -1,10 +1,4 @@
-<p align="center">
-  <h3 align="center">pedr0tavi0</h3>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4EB361&center=true&vCenter=true&width=435&lines=pedr0tavi0" alt="Typing SVG" /></a>
  
 <nav>
  <a font="Fira Code"><h3> LINKS PARA CONTATO </h3> </a>
