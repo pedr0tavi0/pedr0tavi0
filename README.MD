@@ -1,3 +1,6 @@
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
 <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=167208&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Bem+vindo" alt="Typing SVG" /></a>
  
 <nav>
