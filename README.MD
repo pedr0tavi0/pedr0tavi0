@@ -13,7 +13,7 @@
  
  
 <img heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=pedr0tavi0&show_icons=true&locale=en" alt="pedr0tavi0" />
-<img heigth="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pedr0tavi0&" alt="pedr0tavi0" />
+
 
  
 
