@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/pedr0tavi0?logo=github&style=for-th
 
 
  
-[snake gif](https://github.com/pedr0tavi0/pedr0tavi0/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pedr0tavi0/pedr0tavi0/blob/output/github-contribution-grid-snake.svg)
  
  
 
