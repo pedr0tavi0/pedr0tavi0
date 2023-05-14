@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/pedr0tavi0?logo=github&style=for-th
 <a align="right" href="http://www.github.com/pedr0tavi0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedr0tavi0&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div> 
 
 
-<
+
  
 ![snake gif](https://github.com/pedr0tavi0/pedr0tavi0/blob/output/github-contribution-grid-snake.svg)
  
