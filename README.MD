@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/pedr0tavi0?logo=github&style=for-th
 
 <p align="right"> <a"href="https://github.com/pedr0tavi0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0tavi0&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   <b>My GitHub Stats</b>
-<p align="left">  <a href="http://www.github.com/pedr0tavi0"><img src="https://github-readme-stats.vercel.app/api?username=pedr0tavi0&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="pedr0tavi0's GitHub stats" /></a></p>
+ align="left">  <a href="http://www.github.com/pedr0tavi0"><img src="https://github-readme-stats.vercel.app/api?username=pedr0tavi0&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="pedr0tavi0's GitHub stats" /></a></p>
   
 
   
