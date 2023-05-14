@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/pedr0tavi0?logo=github&style=for-th
 
 
 <p align="left"> <a href="https://discord.com/users/pedr0tavi0#5381" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/pedr0tavi0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pedro-otavio-5232a020a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
+<a href="https://github.com/pedr0tavi0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0tavi0&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>My GitHub Stats</b>
 
@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/pedr0tavi0?logo=github&style=for-th
 <a href="http://www.github.com/pedr0tavi0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedr0tavi0&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<a href="https://github.com/pedr0tavi0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0tavi0&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<
  
 ![snake gif](https://github.com/pedr0tavi0/pedr0tavi0/blob/output/github-contribution-grid-snake.svg)
  
