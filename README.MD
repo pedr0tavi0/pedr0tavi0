@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/pedr0tavi0?logo=github&style=for-th
 
 <p align="center">My GitHub Stats</p>
 <div align="left" href="http://www.github.com/pedr0tavi0"><img src="https://github-readme-stats.vercel.app/api?username=pedr0tavi0&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="pedr0tavi0's GitHub stats"width="400" height="400" />
-<a href="http://www.github.com/pedr0tavi0"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedr0tavi0&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"width="400" height="400" /></a></div> 
+<a href="http://www.github.com/pedr0tavi0"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedr0tavi0&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"width="500" height="400" /></a></div> 
 
 
 
