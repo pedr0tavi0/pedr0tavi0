@@ -4,6 +4,7 @@
 </p> 
 <a href="https://www.github.com/pedr0tavi0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pedr0tavi0?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
+<b>My Linguagens</b>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
