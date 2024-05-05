@@ -39,11 +39,6 @@ src="https://img.shields.io/github/followers/pedr0tavi0?logo=github&style=for-th
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedr0tavi0/pedr0tavi0/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/pedr0tavi0?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=green&dark=true) 
-
-</div>
 
  
 
