@@ -38,7 +38,8 @@ src="https://img.shields.io/github/followers/pedr0tavi0?logo=github&style=for-th
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedr0tavi0/pedr0tavi0/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedr0tavi0/pedr0tavi0/output/github-contribution-grid-snake.svg">
 </picture>
- 
+
+https://contribution.catsjuice.com/_/pedr0tavi0?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=native&widget_size=medium&dark=true
  
 
 
